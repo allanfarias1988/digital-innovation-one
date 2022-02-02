@@ -1,2 +1,2 @@
 # digital-innovation-one
-Plataforma de Estudos em Desenvolvimento de Softwares
+Plataforma de Estudos de Desenvolvimento de Softwares
